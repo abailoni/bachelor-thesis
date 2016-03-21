@@ -1,5 +1,5 @@
 ## Resonances in quantum elastic scattering: a time-dependent numerical investigation
-In my bachelor thesis, I investigate quantum scattering processes by numerically solving the time-dependent Schr ̈odinger equation, in the specific case of the hydrogen-krypton scattering. I discuss how scattering resonances are related to an increase of the probability, observed at some specific energies, of finding the scattered particle close to the interaction center.
+In my bachelor thesis, I investigate quantum scattering processes by numerically solving the time-dependent Schroedinger equation, in the specific case of the hydrogen-krypton scattering. I discuss how scattering resonances are related to an increase of the probability, observed at some specific energies, of finding the scattered particle close to the interaction center.
 
 ##
 *Thesis.pdf* contains the thesis text.
